@@ -1,37 +1,34 @@
-<h1 align="center">Xin chào 👋, mình là Hoamz</h1>
-<h3 align="center">Mobile App Developer 📱</h3>
+## Hi I'm Hoa :fox_face:
 
-<img align="right" width="300"
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3F1aG5zdnZ0b2JpYmJxZ2Z2bHk5aHk4c3F6bHB1eG9xZWt0d3N2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+:computer: _Sinh viên Học viện Kỹ thuật Mật mã_ :cityscape: _Sống tại Hà Nội_
+
+### My Tech Stack
+
+### 📱 Mobile Development
+![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+![Flutter](http://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=ffffff)
+
+### 💻 Programming Languages
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Kotlin](http://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=ffffff)
+![Dart](http://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=ffffff)
+![C++](http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
+
+### 🗄 Database
+![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
+![SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+
+### ☁️ Backend
+![Firebase](http://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
+
+#### Others
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 ---
-
-### 👨‍💻 Giới thiệu
-- 📱 Mình là **lập trình viên phát triển ứng dụng di động**
-- 🚀 Tập trung vào **Android & ứng dụng đa nền tảng**
-- 🎓 Sinh viên Công nghệ Thông tin tại Học viện Kỹ thuật Mật Mã
-- 🌱 Luôn học hỏi công nghệ mới và cải thiện kỹ năng
-
----
-
-### 🛠 Công nghệ sử dụng
-<p>
-  <img src="https://skillicons.dev/icons?i=git,java,kotlin,androidstudio,flutter,firebase,mysql" />
-</p>
-
----
-
-### 🔥 Kỹ năng chính
-- Phát triển **ứng dụng Android** với Java & Kotlin  
-- Xây dựng **ứng dụng đa nền tảng** bằng Flutter
-- 
----
-
-### 📊 Thống kê GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoamz123&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hoamz123&layout=compact&theme=tokyonight" />
-</p>
+⭐️ From [hwa](https://github.com/hwadev)
