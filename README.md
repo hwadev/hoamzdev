@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img src="https://jbagy.me/avatar-anime/?srsltid=AfmBOoqpSRZ9HSd6gFEf6dYripzh11CJ2WJrndkN9tZkPovLPmkprk7P" width="140" style="border-radius:50%" />
-</p>
-
-<h1 align="center">Hi 👋 I'm Hoa 🦊</h1>
+<h1 align="center">Hi 👋 I'm Hoa, I'm a mobile developer </h1>
 
 <p align="center">
   <em>🎓 Sinh viên Học viện Kỹ thuật Mật mã · 📍 Sống tại Hà Nội</em>
