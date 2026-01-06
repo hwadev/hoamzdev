@@ -1,8 +1,4 @@
-<h1 align="center"Hi 👋 I'm Hoa, a mobile developer </h1>
-
-<p align="center">
-  <em>🎓 Sinh viên Học viện Kỹ thuật Mật mã · 📍 Sống tại Hà Nội</em>
-</p>
+<h1 align="center">Hi 👋 I'm Hoa, a mobile developer</h1>
 
 ---
 
@@ -13,6 +9,9 @@
   <img src="http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=ffffff" />
 </p>
+<p align="center">
+  <img width="260" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</p>
 
 <h3 align="center">💻 Programming Languages</h3>
 <p align="center">
@@ -21,16 +20,25 @@
   <img src="http://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff" />
 </p>
+<p align="center">
+  <img width="260" src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" />
+</p>
 
 <h3 align="center">🗄 Database</h3>
 <p align="center">
   <img src="http://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff" />
 </p>
+<p align="center">
+  <img width="240" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+</p>
 
 <h3 align="center">☁️ Backend</h3>
 <p align="center">
   <img src="http://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000" />
+</p>
+<p align="center">
+  <img width="240" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 </p>
 
 <h3 align="center">🧰 Tools & IDE</h3>
@@ -41,6 +49,9 @@
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff" />
   <img src="http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff" />
+</p>
+<p align="center">
+  <img width="260" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" />
 </p>
 
 ---
