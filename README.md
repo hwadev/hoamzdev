@@ -1,17 +1,12 @@
 
 <p align="center">
-  <img src="https://github.com/hwadev" width="140" style="border-radius:50%" />
+  <img src="https://jbagy.me/avatar-anime/?srsltid=AfmBOoqpSRZ9HSd6gFEf6dYripzh11CJ2WJrndkN9tZkPovLPmkprk7P" width="140" style="border-radius:50%" />
 </p>
 
 <h1 align="center">Hi 👋 I'm Hoa 🦊</h1>
 
 <p align="center">
   <em>🎓 Sinh viên Học viện Kỹ thuật Mật mã · 📍 Sống tại Hà Nội</em>
-</p>
-
-<p align="center">
-  <img width="300"
-       src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
 
 ---
